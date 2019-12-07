@@ -1,6 +1,6 @@
 package Practice;
 
-public class GraterAndSmaller {
+public class FrequencyOfCharacters {
     public static void main(String[] args) {
 
     }
